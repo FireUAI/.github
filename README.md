@@ -1,0 +1,2 @@
+# .github
+FireUAI - DCC/UFMG
