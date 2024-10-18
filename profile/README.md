@@ -13,7 +13,7 @@ Não são necessários conhecimentos prévios. Nosso objetivo é auxiliar estuda
 
 # Eventos Futuros
 - 19/10/24 - CTF: A Simple CTF THM - Thiago Felipe (Online/Discord)
-- 25/10/24 - CTF Presencial - Lucas Albano
+- 25/10/24 - CTF Presencial - Sala ICeX 2011 às 13hrs
 - 01/11/24 - Entendendo ataques DoS e DDoS - Lucas Albano (Presencial-UFMG)
 - 13 à 15/12/24 - HTB University CTF 2024: Binary Badlands
 
