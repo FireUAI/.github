@@ -12,7 +12,7 @@ Não são necessários conhecimentos prévios. Nosso objetivo é auxiliar estuda
 **Você pode utilizar trechos ou replicar nossos materiais. Pedimos apenas que você forneça créditos adequados ao usá-los ou reproduzi-los.**
 
 # Eventos Futuros
-Novas oficinas em breve!
+- Cyber Apocalypse CTF 2025: Tales from Eldoria - 21-26/03/25
 
 # Eventos Passados
 - 20/10/24 - CTF: A Simple CTF THM - Thiago Felipe (Online/Discord)
