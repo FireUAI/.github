@@ -12,13 +12,15 @@ Não são necessários conhecimentos prévios. Nosso objetivo é auxiliar estuda
 **Você pode utilizar trechos ou replicar nossos materiais. Pedimos apenas que você forneça créditos adequados ao usá-los ou reproduzi-los.**
 
 # Eventos Futuros
-- Cyber Apocalypse CTF 2025: Tales from Eldoria - 21-26/03/25
+Em breve...
 
 # Eventos Passados
 - 20/10/24 - CTF: A Simple CTF THM - Thiago Felipe (Online/Discord)
 - 25/10/24 - CTF Presencial - Sala ICeX 2011 às 13hrs
 - 06/12/24 - Preparação para o HTB University CTF - Sala ICeX 2011 às 15hrs
 - 13 à 15/12/24 - HTB University CTF 2024: Binary Badlands - Sala ICeX 2011 no dia 13/12 à partir das 12:30
+- 21 à 26/03/25 - Cyber Apocalypse CTF 2025: Tales from Eldoria
+- 11/04/25 - Oficina de Introdução ao Hacking - Sala ICeX 2011 às 13hrs e 15hrs
 
 # Contato
 Caso tenha interesse em participar do grupo de estudos entre em contato pelo LinkedIn ou Email:
@@ -26,7 +28,3 @@ Caso tenha interesse em participar do grupo de estudos entre em contato pelo Lin
 **Lucas Albano (Coordenador):** 
 - Email: lucasalbano@dcc.ufmg.br
 - LinkedIn: https://www.linkedin.com/in/lucasaoc/
-
-# Apoio
-**Diretório Acadêmico de Computação e Sistemas de Informação (DACompSI)**
-
