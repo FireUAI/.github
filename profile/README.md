@@ -1,5 +1,9 @@
 # FireUAI
-O **FireUAI** é um grupo de estudos dedicado à cibersegurança, com o propósito de adquirir novos conhecimentos, criar conteúdos e materiais, realizar palestras e oficinas, além de participar de competições (CTFs). Buscamos abranger todos os aspectos da cibersegurança, desde a defesa até o ataque.
+FireUAI é um grupo de estudos fundado por estudantes do Departamento de Ciência da Computação da UFMG, com foco no aprendizado prático de cibersegurança. Nascido do interesse em entender e explorar os limites da segurança cibernética, o grupo atua em múltiplas frentes, buscando sempre aliar técnica, criatividade e pensamento crítico. Promovemos sessões de estudo, oficinas, palestras, desenvolvemos ferramentas e contribuímos com conteúdo técnico aberto. Damos ênfase à participação em competições de segurança (CTFs), enfrentando desafios complexos em equipe e colocando nosso conhecimento à prova em cenários realistas.
+
+```bash
+$ echo "Hackeando o impossível, defendendo o inevitável" 
+```
 
 ### O que preciso para entrar para no grupo de estudos?
 
